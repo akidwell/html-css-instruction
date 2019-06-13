@@ -1,0 +1,20 @@
+
+    p {
+        color: rebeccapurple;
+        border-style: solid;
+        font-size: 20pt
+    }
+    .makeItRed {color:red}
+
+
+    body {
+        color:rgb(7, 4, 4);
+        text-shadow: 4px 4px 4px rgb(149,137,138);
+        font-size:48px;
+        text-align:center;
+        border:5px solid;
+        border-color:black;
+        background-color: rgb(31, 194, 206);
+        padding:40px;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
